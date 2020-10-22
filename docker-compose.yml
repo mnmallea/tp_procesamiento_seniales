@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  notebook:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true
+    command: bash -c "source activate tp_procesamiento_seniales && jupyter notebook --allow-root --ip=0.0.0.0"

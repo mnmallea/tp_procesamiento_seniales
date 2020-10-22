@@ -1,0 +1,7 @@
+name: tp_procesamiento_seniales
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.8
+  - jupyterlab==2.2.8
