@@ -1,0 +1,487 @@
+[
+  {
+    "anio": "2012",
+    "mes": "1",
+    "cantidad_de_PRs": "69289"
+  },
+  {
+    "anio": "2012",
+    "mes": "2",
+    "cantidad_de_PRs": "337322"
+  },
+  {
+    "anio": "2012",
+    "mes": "3",
+    "cantidad_de_PRs": "294985"
+  },
+  {
+    "anio": "2012",
+    "mes": "4",
+    "cantidad_de_PRs": "99266"
+  },
+  {
+    "anio": "2012",
+    "mes": "5",
+    "cantidad_de_PRs": "105358"
+  },
+  {
+    "anio": "2012",
+    "mes": "6",
+    "cantidad_de_PRs": "104236"
+  },
+  {
+    "anio": "2012",
+    "mes": "7",
+    "cantidad_de_PRs": "117990"
+  },
+  {
+    "anio": "2012",
+    "mes": "8",
+    "cantidad_de_PRs": "124422"
+  },
+  {
+    "anio": "2012",
+    "mes": "9",
+    "cantidad_de_PRs": "121076"
+  },
+  {
+    "anio": "2012",
+    "mes": "10",
+    "cantidad_de_PRs": "146678"
+  },
+  {
+    "anio": "2012",
+    "mes": "11",
+    "cantidad_de_PRs": "148027"
+  },
+  {
+    "anio": "2012",
+    "mes": "12",
+    "cantidad_de_PRs": "137500"
+  },
+  {
+    "anio": "2013",
+    "mes": "1",
+    "cantidad_de_PRs": "188236"
+  },
+  {
+    "anio": "2013",
+    "mes": "2",
+    "cantidad_de_PRs": "189558"
+  },
+  {
+    "anio": "2013",
+    "mes": "3",
+    "cantidad_de_PRs": "227471"
+  },
+  {
+    "anio": "2013",
+    "mes": "4",
+    "cantidad_de_PRs": "235518"
+  },
+  {
+    "anio": "2013",
+    "mes": "5",
+    "cantidad_de_PRs": "241372"
+  },
+  {
+    "anio": "2013",
+    "mes": "6",
+    "cantidad_de_PRs": "231509"
+  },
+  {
+    "anio": "2013",
+    "mes": "7",
+    "cantidad_de_PRs": "252950"
+  },
+  {
+    "anio": "2013",
+    "mes": "8",
+    "cantidad_de_PRs": "268679"
+  },
+  {
+    "anio": "2013",
+    "mes": "9",
+    "cantidad_de_PRs": "271822"
+  },
+  {
+    "anio": "2013",
+    "mes": "10",
+    "cantidad_de_PRs": "340759"
+  },
+  {
+    "anio": "2013",
+    "mes": "11",
+    "cantidad_de_PRs": "344437"
+  },
+  {
+    "anio": "2013",
+    "mes": "12",
+    "cantidad_de_PRs": "318031"
+  },
+  {
+    "anio": "2014",
+    "mes": "1",
+    "cantidad_de_PRs": "388746"
+  },
+  {
+    "anio": "2014",
+    "mes": "2",
+    "cantidad_de_PRs": "394252"
+  },
+  {
+    "anio": "2014",
+    "mes": "3",
+    "cantidad_de_PRs": "456239"
+  },
+  {
+    "anio": "2014",
+    "mes": "4",
+    "cantidad_de_PRs": "457706"
+  },
+  {
+    "anio": "2014",
+    "mes": "5",
+    "cantidad_de_PRs": "468334"
+  },
+  {
+    "anio": "2014",
+    "mes": "6",
+    "cantidad_de_PRs": "462501"
+  },
+  {
+    "anio": "2014",
+    "mes": "7",
+    "cantidad_de_PRs": "508103"
+  },
+  {
+    "anio": "2014",
+    "mes": "8",
+    "cantidad_de_PRs": "505934"
+  },
+  {
+    "anio": "2014",
+    "mes": "9",
+    "cantidad_de_PRs": "533060"
+  },
+  {
+    "anio": "2014",
+    "mes": "10",
+    "cantidad_de_PRs": "596867"
+  },
+  {
+    "anio": "2014",
+    "mes": "11",
+    "cantidad_de_PRs": "584818"
+  },
+  {
+    "anio": "2014",
+    "mes": "12",
+    "cantidad_de_PRs": "563702"
+  },
+  {
+    "anio": "2015",
+    "mes": "1",
+    "cantidad_de_PRs": "689614"
+  },
+  {
+    "anio": "2015",
+    "mes": "2",
+    "cantidad_de_PRs": "712887"
+  },
+  {
+    "anio": "2015",
+    "mes": "3",
+    "cantidad_de_PRs": "847904"
+  },
+  {
+    "anio": "2015",
+    "mes": "4",
+    "cantidad_de_PRs": "833087"
+  },
+  {
+    "anio": "2015",
+    "mes": "5",
+    "cantidad_de_PRs": "828717"
+  },
+  {
+    "anio": "2015",
+    "mes": "6",
+    "cantidad_de_PRs": "860200"
+  },
+  {
+    "anio": "2015",
+    "mes": "7",
+    "cantidad_de_PRs": "884959"
+  },
+  {
+    "anio": "2015",
+    "mes": "8",
+    "cantidad_de_PRs": "895142"
+  },
+  {
+    "anio": "2015",
+    "mes": "9",
+    "cantidad_de_PRs": "974538"
+  },
+  {
+    "anio": "2015",
+    "mes": "10",
+    "cantidad_de_PRs": "1123920"
+  },
+  {
+    "anio": "2015",
+    "mes": "11",
+    "cantidad_de_PRs": "1136917"
+  },
+  {
+    "anio": "2015",
+    "mes": "12",
+    "cantidad_de_PRs": "1045493"
+  },
+  {
+    "anio": "2016",
+    "mes": "1",
+    "cantidad_de_PRs": "1215067"
+  },
+  {
+    "anio": "2016",
+    "mes": "2",
+    "cantidad_de_PRs": "1350874"
+  },
+  {
+    "anio": "2016",
+    "mes": "3",
+    "cantidad_de_PRs": "1528644"
+  },
+  {
+    "anio": "2016",
+    "mes": "4",
+    "cantidad_de_PRs": "1571606"
+  },
+  {
+    "anio": "2016",
+    "mes": "5",
+    "cantidad_de_PRs": "1500537"
+  },
+  {
+    "anio": "2016",
+    "mes": "6",
+    "cantidad_de_PRs": "1408160"
+  },
+  {
+    "anio": "2016",
+    "mes": "7",
+    "cantidad_de_PRs": "1373949"
+  },
+  {
+    "anio": "2016",
+    "mes": "8",
+    "cantidad_de_PRs": "1515877"
+  },
+  {
+    "anio": "2016",
+    "mes": "9",
+    "cantidad_de_PRs": "1524665"
+  },
+  {
+    "anio": "2016",
+    "mes": "10",
+    "cantidad_de_PRs": "1674479"
+  },
+  {
+    "anio": "2016",
+    "mes": "11",
+    "cantidad_de_PRs": "1690878"
+  },
+  {
+    "anio": "2016",
+    "mes": "12",
+    "cantidad_de_PRs": "1505067"
+  },
+  {
+    "anio": "2017",
+    "mes": "1",
+    "cantidad_de_PRs": "1672472"
+  },
+  {
+    "anio": "2017",
+    "mes": "2",
+    "cantidad_de_PRs": "1709475"
+  },
+  {
+    "anio": "2017",
+    "mes": "3",
+    "cantidad_de_PRs": "2028588"
+  },
+  {
+    "anio": "2017",
+    "mes": "4",
+    "cantidad_de_PRs": "1837537"
+  },
+  {
+    "anio": "2017",
+    "mes": "5",
+    "cantidad_de_PRs": "1930708"
+  },
+  {
+    "anio": "2017",
+    "mes": "6",
+    "cantidad_de_PRs": "1810346"
+  },
+  {
+    "anio": "2017",
+    "mes": "7",
+    "cantidad_de_PRs": "1771743"
+  },
+  {
+    "anio": "2017",
+    "mes": "8",
+    "cantidad_de_PRs": "1890520"
+  },
+  {
+    "anio": "2017",
+    "mes": "9",
+    "cantidad_de_PRs": "1867471"
+  },
+  {
+    "anio": "2017",
+    "mes": "10",
+    "cantidad_de_PRs": "2325742"
+  },
+  {
+    "anio": "2017",
+    "mes": "11",
+    "cantidad_de_PRs": "2179458"
+  },
+  {
+    "anio": "2017",
+    "mes": "12",
+    "cantidad_de_PRs": "1895605"
+  },
+  {
+    "anio": "2018",
+    "mes": "1",
+    "cantidad_de_PRs": "28836"
+  },
+  {
+    "anio": "2018",
+    "mes": "2",
+    "cantidad_de_PRs": "2078329"
+  },
+  {
+    "anio": "2018",
+    "mes": "3",
+    "cantidad_de_PRs": "2426757"
+  },
+  {
+    "anio": "2018",
+    "mes": "4",
+    "cantidad_de_PRs": "1946247"
+  },
+  {
+    "anio": "2018",
+    "mes": "5",
+    "cantidad_de_PRs": "2188562"
+  },
+  {
+    "anio": "2018",
+    "mes": "6",
+    "cantidad_de_PRs": "2200329"
+  },
+  {
+    "anio": "2018",
+    "mes": "7",
+    "cantidad_de_PRs": "2193365"
+  },
+  {
+    "anio": "2018",
+    "mes": "8",
+    "cantidad_de_PRs": "2289634"
+  },
+  {
+    "anio": "2018",
+    "mes": "9",
+    "cantidad_de_PRs": "2177922"
+  },
+  {
+    "anio": "2018",
+    "mes": "10",
+    "cantidad_de_PRs": "2975249"
+  },
+  {
+    "anio": "2018",
+    "mes": "11",
+    "cantidad_de_PRs": "2566928"
+  },
+  {
+    "anio": "2018",
+    "mes": "12",
+    "cantidad_de_PRs": "2194588"
+  },
+  {
+    "anio": "2019",
+    "mes": "1",
+    "cantidad_de_PRs": "322008"
+  },
+  {
+    "anio": "2019",
+    "mes": "2",
+    "cantidad_de_PRs": "2807483"
+  },
+  {
+    "anio": "2019",
+    "mes": "3",
+    "cantidad_de_PRs": "3299881"
+  },
+  {
+    "anio": "2019",
+    "mes": "4",
+    "cantidad_de_PRs": "3242581"
+  },
+  {
+    "anio": "2019",
+    "mes": "5",
+    "cantidad_de_PRs": "3455843"
+  },
+  {
+    "anio": "2019",
+    "mes": "6",
+    "cantidad_de_PRs": "3352101"
+  },
+  {
+    "anio": "2019",
+    "mes": "7",
+    "cantidad_de_PRs": "3837999"
+  },
+  {
+    "anio": "2019",
+    "mes": "8",
+    "cantidad_de_PRs": "3648694"
+  },
+  {
+    "anio": "2019",
+    "mes": "9",
+    "cantidad_de_PRs": "3700457"
+  },
+  {
+    "anio": "2019",
+    "mes": "10",
+    "cantidad_de_PRs": "5400290"
+  },
+  {
+    "anio": "2019",
+    "mes": "11",
+    "cantidad_de_PRs": "5119128"
+  },
+  {
+    "anio": "2019",
+    "mes": "12",
+    "cantidad_de_PRs": "5140272"
+  },
+  {
+    "anio": "2020",
+    "mes": "1",
+    "cantidad_de_PRs": "1964263"
+  }
+]
